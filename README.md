@@ -60,7 +60,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [Udemy](https://www.udemy.com/) Tons of courses on everything. Have alook at the [Web Development](https://www.udemy.com/courses/development/web-development/) category.
 * [Udacity](https://eu.udacity.com/courses/all) They have free and paid courses on AI, Data Science, Programming and Development, Autonomous systems, etc.
 
-## 🧰 By technologies
+## 🔨 Main technologies
 
 ### HTML
 * [TODO]
@@ -69,19 +69,19 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 ### JavaScript
 * [TODO]
 
-## 🧰 Other technologies
+## 🔧 Other technologies
 
 ### Docker
 * [Docker Documentation](https://docs.docker.com/) Official Documentation
 * [Awesome Docker](https://github.com/veggiemonk/awesome-docker) 🐳 A curated list of Docker resources and projects curated by veggiemonk
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
-* [Docker Compose](https://docs.docker.com/compose/) Define and run multi-container applications with Docker. [GitHub](https://github.com/docker/compose)
+* [Docker Compose](https://docs.docker.com/compose/) Define and run multi-container applications with Docker. [:octocat:](https://github.com/docker/compose)
 ### Kubernetes
 * [Kubernetes](https://github.com/kubernetes/kubernetes) on GitHub
 * [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources by Ramit Surana
 * [Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) by [Denny Zhang](https://www.dennyzhang.com/)
 
-## 🧑🏽‍🤝‍🧑🏼 Communities
+## 💬 Communities
 
 * [List of Slack Channels for local communities by region + General Tech Slack Communities](https://github.com/ladyleet/tech-community-slacks)
 * [Awesome Slack](https://github.com/filipelinhares/awesome-slack#readme)
