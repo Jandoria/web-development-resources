@@ -46,12 +46,14 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 ### 📀 More resources
 * [MDN web docs](https://developer.mozilla.org/en-US/) Resources for developers, by developers
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) with MDN web docs
+* [Stack Overflow](https://stackoverflow.com/)
 * [Frontend case studies](https://github.com/andrew--r/frontend-case-studies) 💼 A curated list of technical talks and articles about real-world enterprise frontend development by Andrew Romanov
 
 ## 💸 Learning
 
 ### 📕 Books
 * [TODO]
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript.
 
 ### 📼 Video tutorials
 * [LinkedIn Learning](https://www.linkedin.com/learning/) They bought the Lynda.com company, and they have lots of courses. Here's the [Become a Front-End Web Developer](https://www.linkedin.com/learning/paths/linkedin-become-a-front-end-web-developer) path for example.
@@ -84,6 +86,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [List of Slack Channels for local communities by region + General Tech Slack Communities](https://github.com/ladyleet/tech-community-slacks)
 * [Awesome Slack](https://github.com/filipelinhares/awesome-slack#readme)
 * [Open Source Communities on Discord](https://discordapp.com/open-source)
+* [Twitter lists?]
 
 ## 🎤 Interviews
 
