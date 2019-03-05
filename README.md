@@ -23,9 +23,9 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 
 ### 📻 Podcasts
 * TODO: Select the best ones from 
-- https://player.fm/featured/web-development
-- https://medium.freecodecamp.org/here-are-the-most-interesting-developer-podcasts-2019-edition-4e43063bf8a4
-- https://dzone.com/articles/the-best-web-development-podcasts
+  - https://player.fm/featured/web-development
+  - https://medium.freecodecamp.org/here-are-the-most-interesting-developer-podcasts-2019-edition-4e43063bf8a4
+  - https://dzone.com/articles/the-best-web-development-podcasts
 * [Start Here: Web Development](https://soundcloud.com/starthere-webdev/)
 
 ## 💸 Learning
