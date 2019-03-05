@@ -1,16 +1,20 @@
 # Web Development Resources
+
 Some Web Development Resources worth saving. Please contact me if you have suggestions.
 
-## 🗺️ Roadmaps
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
-* [Learn to become a modern Frontend Developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) Medium article from the same author.
-
 ## 📗 Before learning
+
 * [One does not simply learn to code](https://medium.freecodecamp.org/one-does-not-simply-learn-to-code-f25bacdc5b62) Medium article by Quincy Larson
 * [Understanding Your Individual Learning Styles in Relation to Learning to Code](https://medium.com/career-change-coder/understanding-your-individual-learning-styles-in-relation-to-learning-to-code-3ad24ebec551) by Code Girl
 
+## 🗺️ Roadmaps
+
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
+* [Learn to become a modern Frontend Developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) Medium article from the same author.
+
 ## 🆓 Learning for free
-### By coding
+
+### 🖥️ By coding
 * [freeCodeCamp](https://www.freecodecamp.org/) Learn to code for free.
 * [Codewars](https://www.codewars.com/) Katas
 * [Scrimba](https://scrimba.com/) "Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player."
@@ -33,39 +37,62 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [more...](https://github.com/andrew--r/channels) A collection of useful YouTube channels for javascript developers and web designers, by Andrew Romanov
 
 ### 📻 Podcasts
-* TODO: Select the best ones from 
+* [TODO]: Select the best ones from 
   - https://player.fm/featured/web-development
   - https://medium.freecodecamp.org/here-are-the-most-interesting-developer-podcasts-2019-edition-4e43063bf8a4
   - https://dzone.com/articles/the-best-web-development-podcasts
 * [Start Here: Web Development](https://soundcloud.com/starthere-webdev/)
 
-### More resources
+### 📀 More resources
+* [MDN web docs](https://developer.mozilla.org/en-US/) Resources for developers, by developers
+* [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) with MDN web docs
 * [Frontend case studies](https://github.com/andrew--r/frontend-case-studies) 💼 A curated list of technical talks and articles about real-world enterprise frontend development by Andrew Romanov
 
 ## 💸 Learning
 
 ### 📕 Books
-* TODO
+* [TODO]
 
 ### 📼 Video tutorials
-* LinkedIn
-* Udemy
-* Udacity
+* [LinkedIn Learning](https://www.linkedin.com/learning/) They bought the Lynda.com company, and they have lots of courses. Here's the [Become a Front-End Web Developer](https://www.linkedin.com/learning/paths/linkedin-become-a-front-end-web-developer) path for example.
+* [Udemy](https://www.udemy.com/) Tons of courses on everything. Have alook at the [Web Development](https://www.udemy.com/courses/development/web-development/) category.
+* [Udacity](https://eu.udacity.com/courses/all) They have free and paid courses on AI, Data Science, Programming and Development, Autonomous systems, etc.
+
+## 🧰 By technologies
+
+### HTML
+* [TODO]
+### CSS
+* [TODO]
+### JavaScript
+* [TODO]
 
 ## 🧰 Other technologies
+
 ### Docker
+* [Docker Documentation](https://docs.docker.com/) Official Documentation
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) 🐳 A curated list of Docker resources and projects curated by veggiemonk
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [Docker Compose](https://docs.docker.com/compose/) Define and run multi-container applications with Docker. [GitHub](https://github.com/docker/compose)
+### Kubernetes
+* [Kubernetes](https://github.com/kubernetes/kubernetes) on GitHub
+* [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources by Ramit Surana
+* [Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) by [Denny Zhang](https://www.dennyzhang.com/)
 
 ## 🧑🏽‍🤝‍🧑🏼 Communities
+
 * [List of Slack Channels for local communities by region + General Tech Slack Communities](https://github.com/ladyleet/tech-community-slacks)
 * [Awesome Slack](https://github.com/filipelinhares/awesome-slack#readme)
 * [Open Source Communities on Discord](https://discordapp.com/open-source)
 
 ## 🎤 Interviews
+
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## 🔎 Job seeking
-* TODO
+
+* [TODO]
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+* [Remote-friendly companies](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech.
