@@ -4,8 +4,8 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 
 ## 📗 Before learning
 
-* [One does not simply learn to code](https://medium.freecodecamp.org/one-does-not-simply-learn-to-code-f25bacdc5b62) Medium article by Quincy Larson
-* [Understanding Your Individual Learning Styles in Relation to Learning to Code](https://medium.com/career-change-coder/understanding-your-individual-learning-styles-in-relation-to-learning-to-code-3ad24ebec551) by Code Girl
+* [One does not simply learn to code](https://medium.freecodecamp.org/one-does-not-simply-learn-to-code-f25bacdc5b62) Medium article by Quincy Larson.
+* [Understanding Your Individual Learning Styles in Relation to Learning to Code](https://medium.com/career-change-coder/understanding-your-individual-learning-styles-in-relation-to-learning-to-code-3ad24ebec551) by Code Girl.
 
 ## 🗺️ Roadmaps
 
@@ -16,11 +16,16 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 
 ### 🖥️ By coding
 * [freeCodeCamp](https://www.freecodecamp.org/) Learn to code for free.
-* [Codewars](https://www.codewars.com/) Katas
+* [Codewars](https://www.codewars.com/) Katas.
 * [Scrimba](https://scrimba.com/) "Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player."
+* Code playgrounds:
+  * [CodePen](https://codepen.io/)
+  * [JSFiddle](https://jsfiddle.net/)
+  * [JS Bin](https://jsbin.com/?html,output)
+  * [CodeSandbox](https://codesandbox.io/)
 
 ### 📖 Free eBooks
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books#readme) Administered by the Free Ebook Foundation
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books#readme) Administered by the Free Ebook Foundation.
 
 ### 📺 YouTube
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
@@ -34,7 +39,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
 * [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
-* [more...](https://github.com/andrew--r/channels) A collection of useful YouTube channels for javascript developers and web designers, by Andrew Romanov
+* [more...](https://github.com/andrew--r/channels) A collection of useful YouTube channels for javascript developers and web designers, by Andrew Romanov.
 
 ### 📻 Podcasts
 * [TODO]: Select the best ones from 
@@ -44,16 +49,18 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [Start Here: Web Development](https://soundcloud.com/starthere-webdev/)
 
 ### 📀 More resources
-* [MDN web docs](https://developer.mozilla.org/en-US/) Resources for developers, by developers
-* [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) with MDN web docs
+* [MDN web docs](https://developer.mozilla.org/en-US/) Resources for developers, by developers.
+* [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) with MDN web docs.
+* [A List Apart](https://alistapart.com/) For people who makes websites.
 * [Stack Overflow](https://stackoverflow.com/)
-* [Frontend case studies](https://github.com/andrew--r/frontend-case-studies) 💼 A curated list of technical talks and articles about real-world enterprise frontend development by Andrew Romanov
+* [Frontend case studies](https://github.com/andrew--r/frontend-case-studies) 💼 A curated list of technical talks and articles about real-world enterprise frontend development by Andrew Romanov.
 
 ## 💸 Learning
 
 ### 📕 Books
 * [TODO]
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript.
+* [A Book Apart](https://abookapart.com/) Brief books for people who make websites.
 
 ### 📼 Video tutorials
 * [LinkedIn Learning](https://www.linkedin.com/learning/) They bought the Lynda.com company, and they have lots of courses. Here's the [Become a Front-End Web Developer](https://www.linkedin.com/learning/paths/linkedin-become-a-front-end-web-developer) path for example.
@@ -72,13 +79,13 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 ## 🔧 Other technologies
 
 ### Docker
-* [Docker Documentation](https://docs.docker.com/) Official Documentation
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) 🐳 A curated list of Docker resources and projects curated by veggiemonk
+* [Docker Documentation](https://docs.docker.com/) Official Documentation.
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) 🐳 A curated list of Docker resources and projects curated by veggiemonk.
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
-* [Docker Compose](https://docs.docker.com/compose/) Define and run multi-container applications with Docker. [:octocat:](https://github.com/docker/compose)
+* [Docker Compose](https://docs.docker.com/compose/) Define and run multi-container .applications with Docker. [:octocat:](https://github.com/docker/compose)
 ### Kubernetes
-* [Kubernetes](https://github.com/kubernetes/kubernetes) on GitHub
-* [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources by Ramit Surana
+* [Kubernetes](https://github.com/kubernetes/kubernetes) on GitHub.
+* [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources by Ramit Surana.
 * [Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) by [Denny Zhang](https://www.dennyzhang.com/)
 
 ## 💬 Communities
