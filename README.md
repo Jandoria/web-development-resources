@@ -104,6 +104,9 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 
 ## 🔎 Job seeking
 
-* [TODO]
 * [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [Remote-friendly companies](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech.
+* [We Work Remotely](https://weworkremotely.com/categories/remote-programming-jobs/#job-listings)
+* [PowerToFly](https://powertofly.com/)
+* [Remotive](https://remotive.io/remote-jobs/software-dev) The best remote jobs, hand-picked daily.
+* [FlexJobs](https://www.flexjobs.com/) You can access hand-screened remote, part-time, freelance, and flexible jobs—quickly and easily!
