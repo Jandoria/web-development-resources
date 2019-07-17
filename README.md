@@ -17,7 +17,9 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 ### 🖥️ By coding
 * [freeCodeCamp](https://www.freecodecamp.org/) Learn to code for free.
 * [Codewars](https://www.codewars.com/) Katas.
-* [CodeSignal](https://codesignal.com/developers/) Get your Coding Report and Prepare for Interviews.
+* [CodeSignal](https://codesignal.com/developers/) Get your coding report and prepare for interviews.
+* [exercism](https://exercism.io/) Code practice and mentorship for everyone.
+* [LeetCode](https://leetcode.com/) Online programming learning platform.
 * [Scrimba](https://scrimba.com/) "Scrimba is a powerful new way of learning code. Play around with the instructors code any time, right in the player."
 * Code playgrounds:
   * [CodePen](https://codepen.io/)
