@@ -78,6 +78,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [TODO]
 ### JavaScript
 * [TODO]
+* https://jstherightway.org/
 
 ## 🔧 Other technologies
 
