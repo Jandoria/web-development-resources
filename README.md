@@ -11,7 +11,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) A set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
 * [Learn to become a modern Frontend Developer in 2019](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) Medium article from the same author.
-* [UI/UX Designer Roadmap](#ui-ux--design) Go to section
+* [UI/UX Designer Roadmap](#%EF%B8%8F-uiux-design) Go to section
 
 ## 🆓 Learning for free
 
