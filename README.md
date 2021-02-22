@@ -89,8 +89,9 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 ### Design Systems
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) A collection of awesome design systems
 
-## 🔧 Other technologies
+## 👩🏽‍💻 DevOps
 
+[TODO]
 ### Docker
 * [Docker Documentation](https://docs.docker.com/) Official Documentation.
 * [Awesome Docker](https://github.com/veggiemonk/awesome-docker) 🐳 A curated list of Docker resources and projects curated by veggiemonk.
@@ -101,6 +102,9 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources by Ramit Surana.
 * [Kubernetes CheatSheets In A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) by [Denny Zhang](https://www.dennyzhang.com/)
 
+## 🔧 Other technologies
+### Markdown
+* [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/)
 ## 💬 Communities
 
 * [List of Slack Channels for local communities by region + General Tech Slack Communities](https://github.com/ladyleet/tech-community-slacks)
