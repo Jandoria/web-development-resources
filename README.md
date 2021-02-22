@@ -76,6 +76,7 @@ Some Web Development Resources worth saving. Please contact me if you have sugge
 * [TODO]
 ### CSS
 * [TODO]
+* [How To Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 ### JavaScript
 * [TODO]
 * https://jstherightway.org/
